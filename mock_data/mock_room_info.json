@@ -1,0 +1,59 @@
+{   
+    "1":[
+        {
+            "roomID": "1",
+            "roomName": "room1",
+            "roomCapacity": 10,
+            "participant" : 1,
+            "date": "2024-09-07",
+            "time":"10:00",
+            "condition": "Female",
+            "lowest_age": 20,
+            "highest_age" : 35    
+        },
+        {
+            "roomID": "2",
+            "roomName": "room2",
+            "roomCapacity": 3,
+            "participant" : 3,
+            "date": "2024-09-07",
+            "time":"13:00",
+            "condition": "Both",
+            "lowest_age": 20,
+            "highest_age" : 25    
+        },
+        {
+            "roomID": "3",
+            "roomName": "room3",
+            "roomCapacity": 4,
+            "participant" : 2,
+            "date": "2024-09-07",
+            "time":"14:00",
+            "condition": "Both",
+            "lowest_age": 18,
+            "highest_age" : 35    
+        },
+        {
+            "roomID": "4",
+            "roomName": "room4",
+            "roomCapacity": 7,
+            "participant" : 4,
+            "date": "2024-09-07",
+            "time":"17:00",
+            "condition": "Male",
+            "lowest_age": 25,
+            "highest_age" : 30    
+        },
+        {
+            "roomID": "5",
+            "roomName": "room5",
+            "roomCapacity": 2,
+            "participant" : 1,
+            "date": "2024-09-07",
+            "time":"18:00",
+            "condition": "Both",
+            "lowest_age": 20,
+            "highest_age" : 22    
+        }
+    ]
+}
